@@ -45,13 +45,8 @@ body {
 
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
   float: left;
   width: 93%;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
 }
 
 div.gallery img {
@@ -60,6 +55,5 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 3%;
   text-align: left;
 }
