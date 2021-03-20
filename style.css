@@ -57,3 +57,7 @@ div.gallery img {
 div.desc {
   text-align: left;
 }
+
+.clear {
+    clear: both;
+}
