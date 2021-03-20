@@ -1,6 +1,11 @@
 body {
-  font-family: "Gravity";
+  font-family: Gravity Bold;
   src: url(https://ncwatersidepark.github.io/fonts/Gravity-Bold.otf);
+}
+
+@font-face {
+    font-family: Gravity Bold;
+    src: url(https://ncwatersidepark.github.io/fonts/Gravity-Bold.otf);
 }
 
 .sidenav {
