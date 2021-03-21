@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250mm"
+   height="100mm"
+   viewBox="0 0 250 100"
+   version="1.1"
+   id="svg2230"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ncwpred.svg">
+  <defs
+     id="defs2224" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1267"
+     inkscape:window-height="967"
+     inkscape:window-x="26"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2227">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect833-7-9-0-37-2-8"
+       style="opacity:0.99;fill:#d40054;fill-opacity:0.97647059;stroke:#d40054;stroke-width:0.993577;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97647059;paint-order:stroke markers fill"
+       d="M 124.99998,54.344615 248.95178,9.8666437 C 199.40408,-26.414887 124.99998,54.344615 124.99998,54.344615 Z m 0,-15.664992 123.9518,-28.8129793 C 256.03368,70.33093 124.99998,38.679623 124.99998,38.679623 Z m 0,0 L 1.0480752,9.8666437 C -6.0339246,70.33095 124.99998,38.679623 124.99998,38.679623 Z m 0,15.664992 L 1.0480752,9.8666437 C 50.595872,-26.414897 124.99998,54.344615 124.99998,54.344615 Z"
+       sodipodi:nodetypes="cccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.1098px;line-height:1.25;font-family:Gravity;-inkscape-font-specification:'Gravity Bold';letter-spacing:0px;fill:#d40054;fill-opacity:0.97647059;stroke:#d40054;stroke-width:0.684506;stroke-opacity:0.97647059;"
+       x="58.339363"
+       y="89.10128"
+       id="text2575-3"
+       transform="scale(1.0068993,0.99314797)"><tspan
+         sodipodi:role="line"
+         id="tspan2573-0"
+         x="58.339363"
+         y="89.10128"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gravity;-inkscape-font-specification:'Gravity Bold';fill:#d40054;fill-opacity:0.97647059;stroke:#d40054;stroke-width:0.684506;stroke-opacity:0.97647059;">ncwp</tspan></text>
+  </g>
+</svg>
