@@ -1,11 +1,11 @@
 body {
   font-family: Gravity;
-  src: url(https://ncwatersidepark.github.io/fonts/Gravity-Bold.otf);
+  src: url(/fonts/Gravity-Bold.otf);
 }
 
 @font-face {
     font-family: Gravity;
-    src: url(https://ncwatersidepark.github.io/fonts/Gravity-Bold.otf);
+    src: url(/fonts/Gravity-Bold.otf);
 }
 
 .sidenav {
@@ -18,6 +18,7 @@ body {
   background-color: #d40054;
   overflow-x: hidden;
   padding-top: 20px;
+  font-family: Gravity;
 }
 
 .sidenav a {
@@ -49,11 +50,13 @@ div.gallery {
   margin: 5px;
   float: left;
   width: 93%;
+  font-family: Gravity;
 }
 
 div.gallery img {
   width: 100%;
   height: auto;
+  font-family: Gravity;
 }
 
 div.desc {
@@ -63,4 +66,5 @@ div.desc {
 
 .clear {
     clear: both;
+    font-family: Gravity;
 }
