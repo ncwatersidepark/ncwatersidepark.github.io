@@ -26,6 +26,7 @@ body {
   font-size: 25px;
   color: #dddddd;
   display: block;
+  font-family: Gravity;
 }
 
 .sidenav a:hover {
@@ -36,6 +37,7 @@ body {
   margin-left: 15%;
   font-size: 28px;
   padding: 0px 10px;
+  font-family: Gravity;
 }
 
 @media screen and (max-height: 450px) {
@@ -56,6 +58,7 @@ div.gallery img {
 
 div.desc {
   text-align: left;
+  font-family: Gravity;
 }
 
 .clear {
